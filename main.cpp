@@ -5,13 +5,13 @@
 #include <WebServer.h>
 
 // WiFi credentials
-const char* ssid = "Wurth-Test";  // Replace with your WiFi SSID
-const char* password = "RedExpert2024";  // Replace with your WiFi password
+const char* ssid = "Your SSID";  // Replace with your WiFi SSID
+const char* password = "Your Password";  // Replace with your WiFi password
 
 // MQTT Broker details
-const char* mqtt_server = "192.168.1.110";
-const char* mqtt_user = "Cubyte";
-const char* mqtt_password = "Juk£box0!";
+const char* mqtt_server = "Yout MQTT Host IP Address";
+const char* mqtt_user = "Your MQTT User Name";
+const char* mqtt_password = "JYour MQTT Password";
 const char* mqtt_topic = "tpms/data";
 
 // Web server
